@@ -1,0 +1,23 @@
+Metro Network Analysis involves examining the network of metro systems to understand their structure, efficiency, and effectiveness. It typically includes analyzing routes, stations, traffic, connectivity, and other operational aspects.
+
+Dataset Information:
+Metro Network Analysis involves the application of data science techniques to understand and interpret the characteristics and dynamics of metro systems.
+
+The provided dataset contains detailed information about the Delhi Metro network, one of the largest and busiest urban transit systems in the world. Key features of the dataset include:
+
+Station Information: Names and IDs of metro stations.
+Geographical Coordinates: Latitude and longitude of each station.
+Line Information: The specific metro line each station belongs to.
+Distance Data: The distance of each station from the start of its line.
+Station Layout: Type of station layout (e.g., Elevated, Underground, At-Grade).
+Opening Date: Date of inauguration of each station.
+
+Your task is to:
+Map the stations to visualize the coverage and distribution of the metro network across Delhi.
+Examine characteristics of different metro lines, including station count and average distances between stations.
+Analyze the types of station layouts and their distribution across the network.
+Draw statistical correlations and insights, such as the relationship between station layout and distance from the city centre.
+
+
+Summary
+So, this is how you can perform Delhi Metro Network Analysis using Python. Metro Network Analysis involves examining the network of metro systems to understand their structure, efficiency, and effectiveness. It typically includes analyzing routes, stations, traffic, connectivity, and other operational aspects.
