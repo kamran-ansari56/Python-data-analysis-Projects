@@ -1,0 +1,20 @@
+Air quality index (AQI) analysis is a crucial aspect of environmental data science that involves monitoring and analyzing air quality in a specific location. It aims to provide a numerical value representative of overall air quality, essential for public health and environmental management.
+
+Dataset Information:
+
+date: Date and time of the measurement.
+co: Concentration of Carbon Monoxide (CO) in µg/m³.
+no: Concentration of Nitric Oxide (NO) in µg/m³.
+no2: Concentration of Nitrogen Dioxide (NO2) in µg/m³.
+o3: Concentration of Ozone (O3) in µg/m³.
+so2: Concentration of Sulfur Dioxide (SO2) in µg/m³.
+pm2_5: Concentration of Particulate Matter (PM2.5) in µg/m³.
+pm10: Concentration of Particulate Matter (PM10) in µg/m³.
+nh3: Concentration of Ammonia (NH3) in µg/m³.
+The aim of this analysis is to gain insights into the air quality index in Delhi during January 2023, using the provided dataset. Your task is to:
+
+Calculate and analyze the Air Quality Index (AQI) based on pollutant concentrations.
+Examine the distribution of AQI categories to understand the prevalence of different air quality conditions.
+Investigate hourly trends in AQI to identify patterns and peak pollution hours.
+Explore correlations between different pollutants to assess their relationships.
+Compare the calculated AQI metrics with recommended air quality metrics to evaluate the severity of air quality in Delhi.
