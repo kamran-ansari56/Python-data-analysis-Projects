@@ -1,0 +1,15 @@
+Ads CTR Analysis stands for Click-Through Rate Analysis for advertisements. Ads CTR Analysis is the process of examining the effectiveness of online advertisements by measuring the rate at which users click on an ad’s link to reach the advertiser’s website.
+
+Dataset information:
+The dataset provided contains information related to Ads CTR for a specific online advertising campaign. It consists of the following columns:
+
+Date: The date on which the data was recorded.
+Clicks: The number of times users clicked on the ads.
+Impressions: The total number of times the ads were displayed to users.
+Your task is to:
+
+Analyze the distribution of Clicks and Impressions over time.
+Calculate and visualize the Click-Through Rate (CTR) trend.
+Identify any patterns or trends in CTR based on day-of-week and other features.
+Create relevant features for CTR analysis.
+Build a forecasting model to predict future CTR values.
