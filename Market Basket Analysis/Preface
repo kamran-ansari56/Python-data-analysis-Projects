@@ -1,0 +1,17 @@
+Market Basket Analysis is a data-driven technique used to uncover patterns and relationships within large transactional datasets, particularly in retail and e-commerce. It helps businesses understand which products or items are often purchased together, providing insights for optimizing product placement, marketing strategies, and promotions.
+
+
+Dataset Information:
+Market Basket Analysis is a data-driven technique used in retail and e-commerce to uncover patterns of co-occurring items in transactions. It aims to identify relationships between products that are frequently purchased together, providing valuable insights for product placement, cross-selling, and marketing strategies.
+
+The dataset provided contains transactional data, with columns representing:
+
+BillNo: A unique identifier for each customer’s bill.
+Itemname: The name of the purchased item.
+Quantity: The quantity of the item purchased.
+Price: The price of each item.
+CustomerID: A unique identifier for each customer.
+Perform a Market Basket Analysis on the given dataset to discover associations between purchased items. Specifically, the goal is to identify:
+
+Which items are frequently purchased together by customers.
+The strength of these associations (e.g., support, confidence, lift).
