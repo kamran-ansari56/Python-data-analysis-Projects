@@ -1,1 +1,13 @@
+Text Analysis, also known as Text Mining or Natural Language Processing (NLP), is a technique used to extract meaningful information and insights from unstructured text data, including documents, emails, social media posts, customer reviews, and more.
 
+Dataset Information:
+Text analysis, also known as text mining or natural language processing (NLP), is the process of extracting meaningful insights, patterns, and information from unstructured text data. It involves various techniques such as text preprocessing, sentiment analysis, named entity recognition, topic modelling, and text classification.
+
+We have a dataset consisting of articles and their corresponding titles. Each article contains text that covers various topics related to data analysis, machine learning, and related fields. The titles provide a concise summary of the main subject or theme of each article.
+
+The goal is to perform comprehensive text analysis on the provided dataset of articles and titles. Specifically, we aim to achieve the following objectives:
+
+Create word clouds to visualize the most frequent words in the titles.
+Analyze the sentiment expressed in the articles to understand the overall tone or sentiment of the content.
+Extract named entities such as organizations, locations, and other relevant information from the articles.
+Apply topic modeling techniques to uncover latent topics within the articles. 
