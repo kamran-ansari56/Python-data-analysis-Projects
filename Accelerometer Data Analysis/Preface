@@ -1,1 +1,9 @@
+Accelerometer is a device used to measure the acceleration or vibrations of a motion. The data provided by an accelerometer is three-dimensional and can be used in data-driven applications for solving problems like fall detection and health monitoring.
 
+Dataset Information:
+Below are all the features in the dataset:
+
+Date: The date on which the activity was recorded. 
+Time: The time of day when the activity was recorded. 
+accel_x, accel_y, accel_z: The x, y, and z axis values of the accelerometer data, which measures the acceleration in m/s^2.
+You can use this dataset for Accelerometer Data Analysis.
