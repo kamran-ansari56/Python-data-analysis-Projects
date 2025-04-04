@@ -1,1 +1,9 @@
+Car Insurance Modelling is a statistical approach used by Insurance companies to predict and assess risks associated with insuring cars and drivers. It typically involves using historical data on insurance claims, customer demographics, vehicle details, and other relevant factors to predict future claims, set premiums, and understand risk factors.
 
+The dataset provided for Car Insurance Modelling consists of information related to drivers and their vehicle claims. Key variables include:
+
+age_of_driver: The age of the driver.
+car_age: The age of the car in years.
+region: The geographical region where the driver resides (e.g., Urban, Rural, Suburban).
+number_of_claims: The count of claims made by the driver.
+Your task is to predict the frequency of insurance claims made by drivers based on their age, the age of their cars, and the region they reside in.
