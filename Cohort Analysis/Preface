@@ -11,7 +11,7 @@ Duration Day 1: The average duration (possibly in minutes or seconds) of user in
 Duration Day 7: The average duration of user interaction on their seventh day.
 Your task is to:
 
-Identify trends in the acquisition of new users and the retention of returning users on a weekly basis.
+Identify trends in the acquisition of new users and the retention of returning users every week.
 Understand how user engagement, as indicated by the average duration of interaction, evolves from the first day to the seventh day of usage.
 Detect any significant weekly patterns or anomalies in user behavior and engagement, and investigate the potential causes behind these trends.
 Explore the relationship between user retention (returning users) and engagement (duration metrics), to assess the effectiveness of user engagement strategies.
