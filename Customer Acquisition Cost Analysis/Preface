@@ -7,7 +7,7 @@ The dataset includes the following columns:
 
 Customer_ID: Unique identifiers for customers.
 Marketing_Channel: The marketing channel through which customers were acquired (e.g., Email Marketing, Online Ads, Social Media).
-Marketing_Spend: The amount of money spent on marketing for each channel.
+Marketing Spend: The amount of money spent on marketing for each channel.
 New_Customers: The number of new customers acquired through each marketing channel.
 Your task is to:
 
