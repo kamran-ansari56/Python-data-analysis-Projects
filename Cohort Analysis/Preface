@@ -1,6 +1,6 @@
 Cohort Analysis is a data analysis technique used to gain insights into the behaviour and characteristics of specific groups of users or customers over time.
 
-Cohort Analysis is a method used in analytics and business intelligence to group customers or users into cohorts based on shared characteristics or experiences within a defined time span. These cohorts are then tracked over time to observe changes in behavior, usage, or other key metrics.
+Cohort Analysis is a method used in analytics and business intelligence to group customers or users into cohorts based on shared characteristics or experiences within a defined period. These cohorts are then tracked over time to observe changes in behavior, usage, or other key metrics.
 
 The provided dataset contains user interaction data, including metrics such as the number of new and returning users, and their engagement durations on Day 1 and Day 7. The data is structured with dates, allowing for time-series analysis. Key columns in the dataset are:
 
